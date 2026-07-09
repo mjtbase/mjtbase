@@ -10,5 +10,5 @@ A few private repos selected here to show real, working code rather than sanitis
 - [LinkedIn](https://www.linkedin.com/in/rhysoshea97/)
 
 ### I also make electronic music (Melodic Techno/DnB)
-https://soundcloud.com/j_oh
-https://open.spotify.com/artist/1nPnuD2GLV7iu6KjctP5PL?si=FHDVXykGT_2NqxXUrthP8Q
+- https://soundcloud.com/j_oh
+- https://open.spotify.com/artist/1nPnuD2GLV7iu6KjctP5PL?si=FHDVXykGT_2NqxXUrthP8Q
