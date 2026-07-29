@@ -5,6 +5,7 @@ Java developer, SC cleared, 9+ years in backend systems and automation. Currentl
 A few private repos selected here to show real, working code rather than sanitised samples.
 
 ### Other Projects & Links
+- Personal portfolio: [work.byjoio.co.uk](https://work.byjoio.co.uk/)
 - Web dev side project: [byjoio.co.uk](https://www.byjoio.co.uk/)
 - Interactive card game site: [ihavenocards.com](https://ihavenocards.com/)
 - [LinkedIn](https://www.linkedin.com/in/rhysoshea97/)
