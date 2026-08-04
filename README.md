@@ -8,6 +8,7 @@ A few private repos selected here to show real, working code rather than sanitis
 - Personal portfolio: [work.byjoio.co.uk](https://work.byjoio.co.uk/)
 - Web dev side project: [byjoio.co.uk](https://www.byjoio.co.uk/)
 - Interactive card game site: [ihavenocards.com](https://ihavenocards.com/)
+- OSRS TCG Foil Checker: [OTFC - beta](https://otfc-web-app.pages.dev/)
 - [LinkedIn](https://www.linkedin.com/in/rhysoshea97/)
 
 ### I also make electronic music (Melodic Techno/DnB)
