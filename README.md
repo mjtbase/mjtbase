@@ -1,6 +1,6 @@
 # Rhys O'Shea
 
-Java developer, SC cleared, 9+ years in backend systems and automation. Currently studying for a BSc in Computing & IT at The Open University, moving from RPA into software engineering.
+Trainee Java developer, SC cleared, 9+ years in back-end systems and automation. Currently studying for a BSc in Computing & IT at The Open University, moving from RPA into software engineering.
 
 A few private repos selected here to show real, working code rather than sanitised samples.
 
@@ -8,7 +8,7 @@ A few private repos selected here to show real, working code rather than sanitis
 - Personal portfolio: [work.byjoio.co.uk](https://work.byjoio.co.uk/)
 - Web dev side project: [byjoio.co.uk](https://www.byjoio.co.uk/)
 - Interactive card game site: [ihavenocards.com](https://ihavenocards.com/)
-- OSRS TCG Foil Checker: [OTFC - beta](https://otfc-web-app.pages.dev/)
+- OSRS TCG Foil Checker: [OTFC - beta](https://otfc-web-app.pages.dev/) [Development on pause]
 - [LinkedIn](https://www.linkedin.com/in/rhysoshea97/)
 
 ### I also make electronic music (Melodic Techno/DnB)
